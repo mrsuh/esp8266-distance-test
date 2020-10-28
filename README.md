@@ -1,11 +1,9 @@
-# ESP8266 distance tester
+# ESP8266 distance test
 
 Required library https://github.com/me-no-dev/ESPAsyncWebServer
 
-**Schema**
-
+### Schema
 ![](./schema.png)
 
-**UI example**
-
+### UI example
 ![](./test.png)
